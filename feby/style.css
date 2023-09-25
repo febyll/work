@@ -1,0 +1,85 @@
+img{
+    width: 80%;
+    height: 700px;
+}
+h1{
+    text-align: cente r;
+    margin-top: 30px;
+
+}
+.card{
+    margin: 10px;
+    border-radius:20px;
+    height: 300px;
+
+
+}
+.card a{
+    background-color: gray;
+    border-color: gray;
+}
+.card img{
+    width: 100%;
+    border-radius:20px;
+    height: 60%;
+}
+#haiii{
+    background-image: url("./Fold5ProductMarketing_1440x810.avif");
+    height: 700px;
+}
+.fb{
+    text-align: center;
+}
+.fb2{
+    text-align: center;
+}
+.fb3{
+    text-align: center;
+    margin-top: 500px;
+}
+.fb3 p{
+    margin-bottom: 0px;
+}
+#fb4{
+    height: 200px;
+    width: 200px;
+
+}
+
+.bb{
+ text-align: center;
+}
+.bb:hover{
+    background-color: black;
+    border-radius: 25px;
+}
+.bottom{
+    margin-top: 30px;
+    border-top: 1px solid gray;
+    color: gray;
+    padding: 20px;
+}
+.bottom h4{
+    margin-left: 20px;
+}
+i{
+    margin-left: 10px;
+    
+    
+}
+.aa{
+    margin-top: 20px;
+    padding: 20px;
+    display: flex;
+}
+H3{
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
+.aa h4{
+    font-size: 13px;
+}
+#fb{
+    margin-top: 500px;
+}
